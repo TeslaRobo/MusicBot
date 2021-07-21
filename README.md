@@ -2,7 +2,9 @@
 
 Telegram VoiceChat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
 
-https://user-images.githubusercontent.com/73926361/126449730-b140eb76-6894-48b8-be31-dce95a9d3d15.mp4
+
+https://user-images.githubusercontent.com/73926361/126453534-7712ed8b-5dfe-48c2-9178-472981a41967.mp4
+
 
 ## Requirements
 
@@ -36,7 +38,9 @@ $ python3 main.py
 
 #### Generate String session [IMPORTANT]
 - Get it by running [This Repl](https://replit.com/@madboy482/Pyrogram-Session) 
+
 or 
+
 - Download this file [generate_string_session.py](https://raw.githubusercontent.com/MadBoy-X/MusicBot/master/generate_string_session.py) using below commands :
 
 ```sh
@@ -46,9 +50,10 @@ $ python3 generate_string_session.py
 Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
+
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FMusicBot&template=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FMusicBot)
 
-Send [Commands](https://github.com/MadBoy-X/MusicBot/blob/master/README.md#commands) to bot to play music.
+Now use these [Commands](https://github.com/MadBoy-X/MusicBot/blob/master/README.md#commands), to play music.
 
 ## Docker
 
@@ -84,10 +89,12 @@ Command | Description
 
 ## Note
 - If you want any help you can ask [Here](https://t.me/TeslaRobo_Chat)
-- 
+
+
 # Credits 📍
-### • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
-### • PRANAV   »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/PRANAV-625D5D?logo=github" /></a>
+## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
+## • PRANAV   »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/PRANAV-625D5D?logo=github" /></a>
+
 
 ## Special Thanks to :
 - [Telegram_VC_Bot](https://github.com/TheHamkerCat/Telegram_VC_Bot)
