@@ -1,5 +1,5 @@
 #Python based docker image
-FROM python:3.9.5-buster
+FROM python:3.9.6-buster
 
 RUN apt-get update && apt-get upgrade -y
 
