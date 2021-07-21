@@ -92,8 +92,8 @@ Command | Description
 
 
 # Credits 📍
-## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
-## • PRANAV   »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/PRANAV-625D5D?logo=github" /></a>
+## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a> {DEV}
+## • PRANAV   »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/PRANAV-625D5D?logo=github" /></a> {DEV}
 
 
 ## Special Thanks to :
